@@ -7,7 +7,9 @@
       }
     ],
     "functions": {
-        "timeout": 120
+        "timeout": {
+            "default": 120
+        }
       },
     "routes": [
       {

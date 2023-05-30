@@ -337,7 +337,6 @@ app.get('/CVValidation', async (req, res) => {
         }
 
     }  
-
         res.redirect('/CHATGPT');
 });
 app.get('/CHATGPT', async (req, res) => {
