@@ -493,10 +493,10 @@ app.get('/CHATGPT', async (req, res) => {
     data = completion3.data.choices[0].message?.content ?? '';
     selectionID=JSON.parse(data);
     console.log(selectionID);
-    setTimeout(function() {
+    setTimeout(function() {  setTimeout(function() {  setTimeout(function() {  setTimeout(function() {  setTimeout(function() {  setTimeout(function() {  setTimeout(function() {
         console.log("1 minute has passed.");
         res.redirect('/OFERTASSELECCIONADAS');
-      }, 61000);
+      }, 8000); }, 8000);}, 8000);}, 8000);}, 8000);}, 8000);}, 8000);
     
 
 });
