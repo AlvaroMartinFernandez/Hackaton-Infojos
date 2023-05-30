@@ -3,7 +3,7 @@
     "version": 2,
     "functions": {
       "api": {
-        "handler": "index.js",
+        "src": "index.js",
         "runtime": "@vercel/node",
         "maxDuration": 60
       }
