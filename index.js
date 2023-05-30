@@ -8,7 +8,7 @@ const { Configuration, ChatCompletionRequestMessageRoleEnum, OpenAIApi } = requi
 const tokenOpenAi = "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";
 const clientId = 'c074f55b73994e589ac6c98e217f6f56';
 const clientSecret = 'DIw91+7XMUdpu1/HeUHhwLn798X9rqRS9iyWhyLusFAB4Axfdp';
-const redirectUri = 'https://6fef-2800-440-1a00-1b00-4063-d78-8f2c-33ec.ngrok-free.app/callback'; // URL de redireccionamiento que hayas configurado en InfoJobs Developer
+const redirectUri = 'https://hackaton-infojobs-alvaro.vercel.app/callback'; // URL de redireccionamiento que hayas configurado en InfoJobs Developer
 const tokenBasic = "YzA3NGY1NWI3Mzk5NGU1ODlhYzZjOThlMjE3ZjZmNTY6REl3OTErN1hNVWRwdTEvSGVVSGh3TG43OThYOXJxUlM5aXlXaHlMdXNGQUI0QXhmZHA=";
 let tokenBear = "fb909b4a-d269-41d1-b086-07771075af6a";
 
