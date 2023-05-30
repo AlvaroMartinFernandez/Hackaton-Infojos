@@ -336,12 +336,9 @@ app.get('/CVValidation', async (req, res) => {
             res.status(500).json({ error: 'Error en la solicitud' });
         }
 
-    }
+    }  
 
-        setTimeout(function() {
-        console.log("1 minute has passed.");
         res.redirect('/CHATGPT');
-      }, 61000);
 });
 app.get('/CHATGPT', async (req, res) => {
 
