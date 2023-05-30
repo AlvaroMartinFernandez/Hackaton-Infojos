@@ -6,10 +6,13 @@
         "use": "@vercel/node"
       }
     ],
+    "functions": {
+        "timeout": 120
+      },
     "routes": [
       {
         "src": "/(.*)",
         "dest": "index.js"
       }
     ]
-  }
+  } 
