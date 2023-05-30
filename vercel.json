@@ -7,8 +7,8 @@
       }
     ],
     "functions": {
-        "timeout": {
-            "default": 120
+        "index.js": {
+          "maxDuration": 120
         }
       },
     "routes": [
