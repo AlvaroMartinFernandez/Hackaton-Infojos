@@ -30,5 +30,5 @@ pero la API no devuelve dicho campo se tiene que notificar a ingojobs).
 
 3- Se procedera a incribirse en la ofertas preseleccionadas de manera autonoma
     Mediante chat gpt responderemos a las preguntas en funcion de nuestro perfil en caso de que las haya y procederemos a incribir la oferta tal y como vemos en las imagenes.
-    ![image](https://github.com/AlvaroMartinFernandez/Hackaton-Infojos/assets/91843474/8bc9b37d-d639-47ea-b80e-b226d72a982b)
+    ![image](https://github.com/AlvaroMartinFernandez/Hackaton-Infojos/assets/91843474/5434c2c2-ace4-4e4f-ada0-2e0e09f14d75)
     ![image](https://github.com/AlvaroMartinFernandez/Hackaton-Infojos/assets/91843474/c4bfb249-e401-49fd-9236-ce6db92880e1)
