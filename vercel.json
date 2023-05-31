@@ -10,8 +10,8 @@
     {
       "src": "/(.*)",
       "dest": "index.js",
-      "methods": ["GET", "POST"],  // Métodos HTTP permitidos para esta ruta
-      "maxDuration": 65 // Tiempo máximo de espera en segundos
+      "methods": ["GET", "POST"], 
+      "maxDuration": 65 
     }
   ]
 }
